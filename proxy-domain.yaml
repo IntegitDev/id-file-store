@@ -1,3 +1,7 @@
 payload:
     - dzindzin.me
     - +.dzindzin.me
+    - google.com
+    - +.google.com
+    - whatismyip.com
+    - +whatismyip.com
