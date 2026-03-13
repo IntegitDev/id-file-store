@@ -1,2 +1,3 @@
 payload:
-  - DOMAIN-SUFFIX,dzindzin.me
+  - +.dzindzin.me
+  - dzindzin.me
