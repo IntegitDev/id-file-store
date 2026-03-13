@@ -4,4 +4,4 @@ payload:
     - google.com
     - +.google.com
     - whatismyip.com
-    - +whatismyip.com
+    - +.whatismyip.com
